@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Ahmed\'s Blog',
+    subtitle: '',
+    description: '',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -49,10 +49,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Home',
             href: '/'
-        },
-        {
-            text: 'Projects',
-            href: '/projects'
         },
         {
             text: 'Blog',
@@ -67,52 +63,30 @@ const siteConfig: SiteConfig = {
         {
             text: 'About',
             href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Email',
+            href: 'mailto:ahmed.ehab5010@gmail.com'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/ahmed-abdul-aziz/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Github',
+            href: 'https://github.com/ahmed-e-abdulaziz'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'A blog about software development, software architecture and new technologies.',
+        text: "I am Ahmed Ehab Abdul-Aziz. I am a Senior Full-Stack Engineer with 8+ YoE mostly in the Spring stack and a Software Engineering enthusiast. I have worked in both startups and enterprises and I love exploring new ideas and engaging in conversations around new technologies.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
-        actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
-        ]
-    },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
+        actions: []
     },
     postsPerPage: 8,
     projectsPerPage: 8

@@ -2,42 +2,99 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Learn more about the person behind the blog
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/about.jpg'
+    alt: A black and white laptop
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Who am I?
 
-## Ethan Donovan - Web Developer based in Estonia
+**Greetings!** I am Ahmed Ehab Abdul-Aziz. I am a Senior Full-Stack Engineer with
+8+ YoE mostly in the Spring stack and a Software Engineering enthusiast. I have worked in both startups and enterprises
+and I value companies that can embrace the startup spirit but
+enforces quality enterprise guidelines.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+I am open to taking freelance jobs. Also, I would love to get
+recommendations for new open-source projects to participate in or to
+get contacted about anything tech-related collaborations.
+
+## How to contact me?
+
+Phone Number: [+201114734723](tel:+201114734723) | Email: [ahmed.ehab5010@gmail.com](mailto:ahmed.ehab5010@gmail.com) | LinkedIn: [linkedin.com/in/ahmed-abdul-aziz/](https://www.linkedin.com/in/ahmed-abdul-aziz/) | Github: [github.com/ahmed-e-abdulaziz](https://github.com/ahmed-e-abdulaziz)
 
 ## Skills and Expertise
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+**Experienced in:** Java (SE/EE), Hibernate/JPA,
+Kubernetes, Helm, Spring Core, Spring MVC, Spring Webflux (Reactor),
+Spring Boot, Spring Data, Spring Cloud, Spring Security, Docker,
+Redis, Jenkins, Kubernetes, Apache HTTPD, Linux, JSF/PrimeFaces,
+JSP, Angular 2+, HTML/CSS, SQL, PostgreSQL, MySQL, Oracle DB, Git,
+Maven, Mockito, PowerMock, TestNG, JUnit, RESTful, JavaScript,
+Prometheus, Grafana, PromQL, Cortex, Liquibase, AWS.
+**Trained in:** Consul, Vue.js, Keycloak, Jest.
 
-## Innovation and Problem-Solving
+**Software Engineering:** UML, OOP, TDD, MVC, Agile
+Methodology (Scrum/Kanban), Observability, OWASP, OAuth 2.0,
+Microservices, Design Patterns, Database Design, Cloud, Web
+Services, Reactive Programming, Internet of Things, DevOps.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+**Languages:** Fluent English. Intermediate
+German(B1+). Native Arabic.
 
-## Global Perspective, Local Impact
+**College:** BSc. in CS, Faculty of Computer and
+Information, Helwan University, 2017, GPA 3.33 (B+), Very Good with
+Honors Degree. Major: Computer Science, Minor: Information Systems.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Experience
 
-## Continuous Learning
+**Senior Software Engineer at Autonomic (A Ford Company) | Andela
+(June 2021 - Present):**
+I was hired as a remote full-time software engineer at Autonomic
+through Andela, where I worked in a distributed US-based team that
+spans 5 countries in 3 different continents to develop the
+observability stack to give the whole company useful insights into
+different services.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+**Senior Full-Stack Engineer at Segmatek (Nov 2019 - Present):**
+My responsibilities included architecting, developing, unit testing,
+deployment of both frontend and backend services, communicating with
+the customer, leading a team of junior developers and conducting
+interviews. I worked on building multiple services using Spring
+stack and Angular plus deployment and DevOps tasks like managing
+Docker, using Jenkins and pipelines, configuring Apache server and
+shell scripting using bash or batch.
 
-## Collaboration and Communication
+**Java Software Consultant at Infor (August 2019 - Nov 2019):**
+I maintained and enhanced applications on an ongoing basis and
+ensured that unit tests are performed correctly using Java and
+collaborated with team members to achieve goals and to maintain the
+continued success of the products.
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+**Java Software Engineer at DXC (March 2018 - August 2019):**
+I engineered and developed software applications for DXC Technology
+(formerly HP Enterprise) where I work in a multinational team to
+deliver Java applications using Hibernate, Spring Core/MVC/Data/Boot
+to provide required business needs with a RESTful endpoint to be
+consumed by the frontend layer.
 
-## Get in Touch
+**Junior Java Developer at Marased (July 2017 - March 2018):**
+I maintained and developed new features to support the projects I am
+enrolled in at Marased. I mainly worked as a Junior Java Developer
+with JSF/PrimeFaces, Spring Core/MVC, Jersey, AngularJS and
+Hibernate to finish required tasks within specific timeframes.
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+**Trainee at HCI LAB (March 2016 - April 2016):**
+Mainly Java (OpenCV) tasks, most notably the Automatic correction
+system. It scans and recognizes the answer sheet then calculates the
+grade.
 
-_Let's build something amazing together!_
+**Intern at IBM (July 2015 - July 2015):** Many
+IT-related problems. I choose it as I wanted to work with something
+different than programming to challenge myself with something new.
+
+**Intern at IBM (July 2014 - August 2014):** My first
+internship which was a great experience where I solved many
+programming tasks, it included Java and JavaScript.
