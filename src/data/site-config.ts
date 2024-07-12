@@ -34,7 +34,6 @@ export type SiteConfig = {
     hero?: Hero;
     subscribe?: Subscribe;
     postsPerPage?: number;
-    projectsPerPage?: number;
 };
 
 const siteConfig: SiteConfig = {
@@ -42,8 +41,8 @@ const siteConfig: SiteConfig = {
     subtitle: '',
     description: '',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/home-hero.jpeg',
+        alt: 'Five coffee beans lined on a dark green background'
     },
     headerNavLinks: [
         {
@@ -83,13 +82,12 @@ const siteConfig: SiteConfig = {
         title: 'A blog about software development, software architecture and new technologies.',
         text: "I am Ahmed Ehab Abdul-Aziz. I am a Senior Full-Stack Engineer with 8+ YoE mostly in the Spring stack and a Software Engineering enthusiast. I have worked in both startups and enterprises and I love exploring new ideas and engaging in conversations around new technologies.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/home-hero.jpeg',
+            alt: 'Five coffee beans lined on a dark green background'
         },
         actions: []
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 8
 };
 
 export default siteConfig;

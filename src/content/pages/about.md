@@ -50,6 +50,8 @@ Honors Degree. Major: Computer Science, Minor: Information Systems.
 
 ## Experience
 
+** 
+
 **Senior Software Engineer at Autonomic (A Ford Company) | Andela
 (June 2021 - Present):**
 I was hired as a remote full-time software engineer at Autonomic
