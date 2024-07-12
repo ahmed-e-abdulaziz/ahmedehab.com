@@ -11,10 +11,12 @@ seo:
     alt: A person standing at the window
 ---
 
+![richardson-maturity-model-hero.jpg](/richardson-maturity-model-hero.jpg)
+
 ## Are you RESTful?
 
 So, right now, everyone and their mother is creating REST APIs. However, are all REST APIs created as equals?
-As I said in my [rest fundamentals article](https://ahmedehab.com/rest-fundamentals), **Roy Fielding**, the creator of REST, [is *getting frustrated by the number of people calling any HTTP-based interface a REST API*](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven).
+As I said in my [rest fundamentals article](https://ahmedehab.com/rest-fundamentals), **Roy Fielding**, the creator of REST, [is _getting frustrated by the number of people calling any HTTP-based interface a REST API_](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven).
 Even so, a black-or-white scale for whether an API is RESTful can be misleading. Thus, **Leonard Richardson** designed a way to define how much an API conforms to the RESTful standards, creating the Richardson Maturity Model or RMM.
 
 ## RMM

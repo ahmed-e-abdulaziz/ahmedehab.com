@@ -11,6 +11,8 @@ seo:
     alt: A person standing at the window
 ---
 
+![idempotency.jpg](/idempotency.jpg)
+
 ## Idempotency?
 
 Have you accidentally clicked the order button twice on any e-commerce and still ordered a single order? Well, you have idempotency to thank for that (And the developer who implemented it 👨‍💻)!
@@ -40,16 +42,16 @@ While safe methods are concerned with keeping the same state of the resources on
 
 In the following table, we can see where each commonly-used HTTP methods fall in the previous categorization.
 
-| Method   | Safe  | Idempotent  |
-| -------- | ----- | ----------- |
-| `GET`    | Yes   | Yes         |
-| `HEAD`   | Yes   | Yes         |
-| `OPTIONS`| Yes   | Yes         |
-| `TRACE`  | Yes   | Yes         |
-| `PUT`    | No    | Yes         |
-| `DELETE` | No    | Yes         |
-| `POST`   | No    | No          |
-| `PATCH`  | No    | No          |
+| Method    | Safe | Idempotent |
+| --------- | ---- | ---------- |
+| `GET`     | Yes  | Yes        |
+| `HEAD`    | Yes  | Yes        |
+| `OPTIONS` | Yes  | Yes        |
+| `TRACE`   | Yes  | Yes        |
+| `PUT`     | No   | Yes        |
+| `DELETE`  | No   | Yes        |
+| `POST`    | No   | No         |
+| `PATCH`   | No   | No         |
 
 This shows that the real difference between Safe and Idempotent concepts is evident when we look at the behavior of the `PUT` and `DELETE` methods.
 

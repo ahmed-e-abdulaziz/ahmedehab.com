@@ -1,5 +1,5 @@
 ---
-title: WTF is HATEOAS? 
+title: WTF is HATEOAS?
 excerpt: ha-tay-o-as, hat-os, ha-teoas, aitch-a-tee-o-a-ess, hideous?
 publishDate: 'Feb 18 2021'
 isFeatured: true
@@ -10,6 +10,9 @@ seo:
     src: '/hateoas-hero.jpg'
     alt: A person standing at the window
 ---
+
+![hateoas-hero.jpg](/hateoas-hero.jpg)
+
 **H**ypermedia **A**s **T**he **E**ngine **O**f **A**pplication **S**tate or HATEOAS is a significant part of REST architecture to provide a Uniform Interface, which is one of the main fundamentals of REST. You can read more about REST fundamentals in [my previous post](https://ahmedehab.com/rest-fundamentals). Here I will explain it and why it was created.
 
 ## In a Perfect World
@@ -53,7 +56,7 @@ HATEOAS defines actions and their endpoints in the response of any entity. Thus 
 It is applied by adding a list of actions with their links to the entity so we can get the required link from the response to perform our action.
 Initially, the response for `GET /users/` to get a list of users would look like this (assuming we have a single user in the backend) with HATEOAS:
 
-``` json
+```json
 [
   {
     "id": 1,
@@ -75,12 +78,11 @@ Initially, the response for `GET /users/` to get a list of users would look like
     }
   }
 ]
-
 ```
 
 Now we can change the endpoints from `/users/` to `/user/` and add a new report like this:
 
-``` json
+```json
 [
   {
     "id": 1,
@@ -105,12 +107,11 @@ Now we can change the endpoints from `/users/` to `/user/` and add a new report 
     }
   }
 ]
-
 ```
 
 Another step we can do is to add the HTTP method used for each link to reduce coupling further. This is different from the REST standards, though.
 
-``` json
+```json
 {
   "self": {
     "href": "https://ahmedehab.com/users/1",
