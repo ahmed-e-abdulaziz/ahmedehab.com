@@ -30,9 +30,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Ahmed\'s Blog',
+    title: "Ahmed's Blog",
     subtitle: '',
-    description: '',
+    description: "Ahmed's Blog: A blog about software development, software architecture and new technologies",
     image: {
         src: '/home-hero.jpg',
         alt: 'Five coffee beans lined on a dark green background'
@@ -73,7 +73,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'A blog about software development, software architecture and new technologies.',
-        text: "I am Ahmed Ehab Abdul-Aziz. I am a Senior Full-Stack Engineer with 8+ YoE mostly in the Spring stack and a Software Engineering enthusiast. I have worked in both startups and enterprises and I love exploring new ideas and engaging in conversations around new technologies.",
+        text: 'I am Ahmed Ehab Abdul-Aziz. I am a Senior Full-Stack Engineer with 8+ YoE mostly in the Spring stack and a Software Engineering enthusiast. I have worked in both startups and enterprises and I love exploring new ideas and engaging in conversations around new technologies.',
         image: {
             src: '/home-hero.jpg',
             alt: 'Five coffee beans lined on a dark green background'
