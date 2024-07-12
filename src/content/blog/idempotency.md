@@ -2,6 +2,7 @@
 title: HTTP Idempotency
 excerpt: Insanity is doing the same thing over and over and expecting different results
 publishDate: 'Aug 8 2021'
+isFeatured: true
 tags:
   - REST
 seo:

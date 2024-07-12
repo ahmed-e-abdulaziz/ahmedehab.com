@@ -34,7 +34,7 @@ const siteConfig: SiteConfig = {
     subtitle: '',
     description: '',
     image: {
-        src: '/home-hero.jpeg',
+        src: '/home-hero.jpg',
         alt: 'Five coffee beans lined on a dark green background'
     },
     headerNavLinks: [
@@ -75,7 +75,7 @@ const siteConfig: SiteConfig = {
         title: 'A blog about software development, software architecture and new technologies.',
         text: "I am Ahmed Ehab Abdul-Aziz. I am a Senior Full-Stack Engineer with 8+ YoE mostly in the Spring stack and a Software Engineering enthusiast. I have worked in both startups and enterprises and I love exploring new ideas and engaging in conversations around new technologies.",
         image: {
-            src: '/home-hero.jpeg',
+            src: '/home-hero.jpg',
             alt: 'Five coffee beans lined on a dark green background'
         },
         actions: []

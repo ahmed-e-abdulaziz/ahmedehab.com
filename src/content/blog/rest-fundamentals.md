@@ -4,6 +4,7 @@ excerpt: The Why, What, and How of REST
 tags:
   - REST
 publishDate: 'Feb 18 2021'
+isFeatured: true
 seo:
   image:
     src: '/rest-fundamentals-hero.jpg'

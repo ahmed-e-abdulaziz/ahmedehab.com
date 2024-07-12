@@ -1,9 +1,10 @@
 ---
 title: Richardson Maturity Model
-excerpt: How mature is your REST API? RMM answers that!
+excerpt: How mature is your REST API? RMM answers that
 tags:
   - REST
 publishDate: 'Feb 18 2021'
+isFeatured: true
 seo:
   image:
     src: '/richardson-maturity-model-hero.jpg'

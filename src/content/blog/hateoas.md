@@ -2,6 +2,7 @@
 title: WTF is HATEOAS? 
 excerpt: ha-tay-o-as, hat-os, ha-teoas, aitch-a-tee-o-a-ess, hideous?
 publishDate: 'Feb 18 2021'
+isFeatured: true
 tags:
   - REST
 seo:
