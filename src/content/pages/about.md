@@ -8,7 +8,7 @@ seo:
     alt: A black and white laptop
 ---
 
-![Alt text for image](/about.jpg)
+![A black and white laptop](/about.jpg)
 
 ## Who am I?
 
@@ -50,7 +50,7 @@ Honors Degree. Major: Computer Science, Minor: Information Systems.
 
 ## Experience
 
-** 
+\*\*
 
 **Senior Software Engineer at Autonomic (A Ford Company) | Andela
 (June 2021 - Present):**

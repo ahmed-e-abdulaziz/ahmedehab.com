@@ -7,11 +7,11 @@ publishDate: 'Feb 18 2021'
 isFeatured: true
 seo:
   image:
-    src: '/richardson-maturity-model-hero.jpg'
-    alt: A person standing at the window
+    src: '/richardson-maturity-model-hero.webp'
+    alt: Three flower bases with the left one blooming
 ---
 
-![richardson-maturity-model-hero.jpg](/richardson-maturity-model-hero.jpg)
+![Three flower bases with the left one blooming](/richardson-maturity-model-hero.webp)
 
 ## Are you RESTful?
 
@@ -25,7 +25,7 @@ RMM aims to describe a specific grade for how much an API conforms to the RESTfu
 
 The great thing is that it doesn't shun away any API that is not fully RESTful. It has some specific measurements that will allow engineers to quickly assess how scalable their endpoints are according to the RESTful standards and what can be improved to reach a higher level.
 
-![RMM Hierarchy](/RMM.png)
+![RMM Hierarchy](/RMM.webp)
 
 ## Level 0 (Swamp of POX)
 

@@ -7,11 +7,11 @@ tags:
   - REST
 seo:
   image:
-    src: '/hateoas-hero.jpg'
-    alt: A person standing at the window
+    src: '/hateoas-hero.webp'
+    alt: A blueprint drawing for multiple machineries
 ---
 
-![hateoas-hero.jpg](/hateoas-hero.jpg)
+![A blueprint drawing for multiple machineries](/hateoas-hero.webp)
 
 **H**ypermedia **A**s **T**he **E**ngine **O**f **A**pplication **S**tate or HATEOAS is a significant part of REST architecture to provide a Uniform Interface, which is one of the main fundamentals of REST. You can read more about REST fundamentals in [my previous post](https://ahmedehab.com/rest-fundamentals). Here I will explain it and why it was created.
 
