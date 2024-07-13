@@ -11,7 +11,7 @@ _Email:_
 Feel free to drop me an email at [ahmed.ehab5010@gmail.com](mailto:ahmed.ehab5010@gmail.com), and I'll do my best to respond as soon as possible.
 
 _LinkedIn:_
-Connect with me on social media as well. [LinkedIn](https://www.linkedin.com/in/ahmed-abdul-aziz/).
+Connect with me on social media as well. [LinkedIn](https://www.linkedin.com/in/ahmed-ehab-swe/).
 
 _Phone Number:_
 Contact me on my phone number if you would like as well. My phone number is [+201114734723](tel:+201114734723) You can also use WhatsApp or Telegram for the same number.

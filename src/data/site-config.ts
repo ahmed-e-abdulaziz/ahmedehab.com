@@ -64,7 +64,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'LinkedIn',
-            href: 'https://www.linkedin.com/in/ahmed-abdul-aziz/'
+            href: 'https://www.linkedin.com/in/ahmed-ehab-swe/'
         },
         {
             text: 'Github',
