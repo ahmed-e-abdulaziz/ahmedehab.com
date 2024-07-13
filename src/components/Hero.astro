@@ -3,6 +3,7 @@ import { marked } from 'marked';
 import Button from './Button.astro';
 import siteConfig from '../data/site-config';
 import { Image } from 'astro:assets';
+import heroImage from '../../public/home-hero.webp';
 
 const hero = siteConfig.hero;
 ---
@@ -15,7 +16,7 @@ const hero = siteConfig.hero;
                 <figure>
                     <Image
                         class="w-full"
-                        src={hero.image.src}
+                        src={heroImage}
                         alt={hero.image.alt || ''}
                         widths={[240, 540, 720, 780]}
                         sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1600px) 720px, 1400px`}
