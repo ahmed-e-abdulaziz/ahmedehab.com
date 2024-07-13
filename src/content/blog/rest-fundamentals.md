@@ -7,11 +7,11 @@ publishDate: 'Feb 18 2021'
 isFeatured: true
 seo:
   image:
-    src: '/rest-fundamentals-hero.jpg'
+    src: '/rest-fundamentals-hero.webp'
     alt: A person standing at the window
 ---
 
-![rest-fundamentals-hero.jpg](/rest-fundamentals-hero.jpg)
+![A photo of the internals of a metal building](/rest-fundamentals-hero.webp)
 
 REST has been a cornerstone of backend programming for quite a while now. However, many developers have a vague idea of what REST is or confuse it with HTTP. In this post, I will shed some light on what exactly constitutes REST and how it compares to HTTP.
 

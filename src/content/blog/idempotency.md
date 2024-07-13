@@ -7,11 +7,11 @@ tags:
   - REST
 seo:
   image:
-    src: '/idempotency.jpg'
+    src: '/idempotency.webp'
     alt: A person standing at the window
 ---
 
-![idempotency.jpg](/idempotency.jpg)
+![A large array of ducks on multiple rows filling the whole picture](/idempotency.webp)
 
 ## Idempotency?
 
@@ -28,7 +28,7 @@ For HTTP API design, you won't run the same operation twice when an idempotent A
 
 The reason a client would call the server twice might mostly not be because a user clicked a button two times. It is attributed more to network failures. For example, if an acknowledgment response for the update is **NOT** returned because of a network failure, the client might automatically send the same request again. From its point of view, the update request itself has yet to arrive at the server.
 
-![Non-Idempotent Requests versus Idempotent requests](/NonIdempVsIdemp.png)
+![Non-Idempotent Requests versus Idempotent requests](/NonIdempVsIdemp.webp)
 
 ## Safe vs. Idempotent
 
