@@ -47,9 +47,6 @@
         --color-border-main: 243 239 230;
     }
     */
-    .font-medium {
-        font-weight: 600 !important;
-    }
 }
 
 /* latin */
@@ -58,6 +55,7 @@
     font-style: normal;
     font-weight: normal;
     font-display: swap;
-    src: url('fonts/Newsreader16pt-Regular.woff2') format('woff2'),
+    src:
+        url('fonts/Newsreader16pt-Regular.woff2') format('woff2'),
         url('fonts/Newsreader16pt-Regular.woff') format('woff');
 }
