@@ -11,7 +11,6 @@ export default defineConfig({
         sitemap(),
         tailwind({
             applyBaseStyles: false
-        }),
-        (await import('astro-compress')).default()
+        })
     ]
 });
