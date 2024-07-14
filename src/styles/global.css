@@ -55,7 +55,5 @@
     font-style: normal;
     font-weight: normal;
     font-display: swap;
-    src:
-        url('fonts/Newsreader16pt-Regular.woff2') format('woff2'),
-        url('fonts/Newsreader16pt-Regular.woff') format('woff');
+    src: url('fonts/Newsreader16pt-Regular.woff2') format('woff2');
 }
